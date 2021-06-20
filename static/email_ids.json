@@ -1,0 +1,95 @@
+[
+  {
+    "email": "<emailid_for_other>",
+    "password": "<password_for_others",
+    "cities": [
+      "other"
+    ]
+  },
+  {
+    "email": "<emailid_for_other>",
+    "password": "<password_for_other>",
+    "cities": [
+      "other"
+    ]
+  },
+  {
+    "email": "<emailid_for_gurugram>",
+    "password": "<password_for_gurugram>",
+    "cities": [
+      "gurugram",
+      "gurgaon"
+    ]
+  },
+  {
+    "email": "<emailid_for_faridabad>",
+    "password": "<password_for_faridabad>",
+    "cities": [
+      "faridabad"
+    ]
+  },
+  {
+    "email": "<emailid_for_hisar>",
+    "password": "<password_for_hisar>",
+    "cities": [
+      "hisar"
+    ]
+  },
+  {
+    "email": "<emailid_for_rewari>",
+    "password": "<password_for_rewari>",
+    "cities": [
+      "rewari"
+    ]
+  },
+  {
+    "email": "<emailid_for_ambala>",
+    "password": "<password_for_ambala>",
+    "cities": [
+      "ambala"
+    ]
+  },
+  {
+    "email": "<emailid_for_sonepat>",
+    "password": "<password_for_sonepat>",
+    "cities": [
+      "sonipat",
+      "sonepat"
+    ]
+  },
+  {
+    "email": "<emailid_for_palwal>",
+    "password": "<password_for_palwal>",
+    "cities": [
+      "palwal"
+    ]
+  },
+  {
+    "email": "<emailid_for_karnal>",
+    "password": "<password_for_karnal>",
+    "cities": [
+      "karnal"
+    ]
+  },
+  {
+    "email": "<emailid_for_delhi>",
+    "password": "<password_for_delhi>",
+    "cities": [
+      "delhi"
+    ]
+  },
+  {
+    "email": "<emailid_for_bahadurgarh>",
+    "password": "<password_for_bahadurgarh>",
+    "cities": [
+      "bahadurgarh"
+    ]
+  },
+  {
+    "email": "<emailid_for_fatehabad>",
+    "password": "<password_for_fatehabad>",
+    "cities": [
+      "fatehabad"
+    ]
+  }
+]
